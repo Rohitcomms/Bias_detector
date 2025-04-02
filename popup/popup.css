@@ -1,0 +1,36 @@
+body {
+    width: 250px;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background: #4285f4;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  button:hover {
+    background: #3367d6;
+  }
+  
+  .status {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #666;
+  }
